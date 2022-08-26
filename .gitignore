@@ -1,5 +1,5 @@
 # Adding config.py file.
-Open_Weather_API_Key.py
+API_Keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
